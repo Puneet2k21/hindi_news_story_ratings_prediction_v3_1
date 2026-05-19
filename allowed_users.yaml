@@ -1,0 +1,180 @@
+credentials:
+  usernames:
+    puneet2k21@yahoo.com:
+      name: "Puneet Sah"
+      password: "$2b$12$KizQYnXC7EIZmsHky7/RdOECDsj.lEWMEQ2agyFa2oe09oG04q4DK"
+      role: "admin"
+      email: "puneet2k21@yahoo.com"  # Add email field
+    puneet.sah:
+      name: "Puneet Sah"
+      password: "$2b$12$KizQYnXC7EIZmsHky7/RdOECDsj.lEWMEQ2agyFa2oe09oG04q4DK"
+      role: "admin"
+      email: "puneet2k21@yahoo.com"  # Add email field
+    admin@gmail.com:
+      name: "Admin"
+      password: "$2b$12$eFC02C5PFbz/FTIVIZbF8e4iWXL5QxpX3bu6wNO9d.I0yZpjAG9qi"
+      role: "admin"
+      email: "admin@gmail.com"  # Add email field
+    shruti.sah:
+      name: "Shruti Sah"
+      password: "$2b$12$HBu6XFqLRB9AE6xIlD9O2.bm/OdObAe0yymGH9FaHd4QvSflBJTAi"
+      role: "user"
+      email: "Shruti@gmail.com"  # Add email field
+    ranjit.kumar:
+      name: "Ranjit Kumar"
+      password: "$2b$12$.zdGZ16T8PRfGoP49I7tde4fFUKKxYU.ST3QLc8j33/WIBgvn/p1K"
+      role: "user"
+      email: "ranjit@gmail.com"  # Add email field
+    satya.prakash1:
+      name: "Satya Prakash"
+      password: "$2b$12$kkvEvnGorf.GFzIrl8OVaOUwQpIRv3f0W/3WbJTl.0WVamap.hLNW"
+      role: "user"
+      email: "satya@gmail.com"  # Add email field
+    sushant.sinha:
+      name: "Sushant"
+      password: "$2b$12$WOB/9T980/oa8XATex4M9.yM8F92pkbDVp.SLEBVhgQqZmpouO/WO"
+      role: "user"
+      email: "sushant@gmail.com"  # Add email field
+    ashwin.vyas:
+      name: "Ashwin Vyas"
+      password: "$2b$12$Bmvi.HqTz6VyDeOZxcSvKu0QOn7ReO5v.e/dh.tiJ0/cRMFMr2IPW"
+      role: "user"
+      email: "ashwin@gmail.com"  # Add email field
+    varun.k:
+      name: "Varun K"
+      password: "$2b$12$tAat.msShGjRJmenQH6WyuoIoF418tJ/PP.NNoDJsimZauAu5toD6"
+      role: "user"
+      email: "varun@gmail.com"  # Add email field
+    navika.kumar:
+      name: "Navika Kumar"
+      password: "$2b$12$heHR2T.7wfh.9I3HqOawruiS0vJdv.YpMpNIodybosBUoucth.NSq"
+      role: "user"
+      email: "navika@gmail.com"  # Add email field
+    pranesh.roy:
+      name: "Pranesh Roy"
+      password: "$2b$12$38X5Mxvui1m6yDS30IfMoOIdyZ8I/2F0.GVnAVrDB4QuEAedCai0y"
+      role: "user"
+      email: "pranesh@gmail.com"  # Add email field	
+    meghna.deka:
+      name: "Meghna Deka"
+      password: "$2b$12$bdmKTmxITqXl0F/aj.lbSuJ/R2sis4GE7qoWzMZR.fqLJjsw9U4hm"
+      role: "user"
+      email: "meghna@gmail.com"  # Add email field	
+    rachna.burman:
+      name: "Rachna Burman"
+      password: "$2b$12$ZYMPHI6oxPpZj9XOc4kKXuq93VCN8a/JXIXxETCcpgXv7E.iy8Xra"
+      role: "user"
+      email: "rachna@gmail.com"  # Add email field	
+    shreya.dhoundial:
+      name: "Shreya Dhoundial"
+      password: "$2b$12$LtdJ7D9LsRgpI5TU4VXqzuIys5.PIERZr0xVpvZoHdPaWHFEDNU9W"
+      role: "user"
+      email: "shreya@gmail.com"  # Add email field
+    peddinti.rangacharyulu:
+      name: "P Rangacharyulu"
+      password: "$2b$12$uyx/dF4.mk2jRjVZVxb1rOKs3kqasR4K/S63fUh.FP7FONPa1aRNG"
+      role: "user"
+      email: "ranga@gmail.com"  # Add email field
+    sharif.memon:
+      name: "Sharif Memon"
+      password: "$2b$12$/GkKWb533zvdf87azy.fJOqtpElo4ePxJ5wVoqC/mVgnJCSN1lkF6"
+      role: "user"
+      email: "shariff@gmail.com"  # Add email field
+    rahul.shavshankar:
+      name: "Rahul S"
+      password: "$2b$12$yyvwrP5rM4xj2slbviwrdOFavchbwCFE/tE8jjeueC2Yf7Yyh5xIG"
+      role: "user"
+      email: "rahul@gmail.com"  # Add email field
+    nikunj.garg:
+      name: "Nikunj Garg"
+      password: "$2b$12$wjJU5iWTNqmLxjHIY5lctuiF33KvdgxdkvDUyuKcdBK4AJGQohwDK"
+      role: "user"
+      email: "nikunj@gmail.com"  # Add email field
+    madhavdas.g:
+      name: "Madhavdas G"
+      password: "$2b$12$ElbF5lRh.U1lxDuxHj2wSOq0PzwnnKtP4Sfq86j1gebia1x8pmO4i"
+      role: "user"
+      email: "madhav@gmail.com"  # Add email field
+    ashish.jain:
+      name: "Ashish Jain"
+      password: "$2b$12$e.y0pPoYaejKUqFUCa9eaOXBHOhyVjuURsBtQYnh3LWzSl1B3ctUO"
+      role: "user"
+      email: "ashish@gmail.com"  # Add email field
+    gaurav.dhawan:
+      name: "Gaurav Dhawan"
+      password: "$2b$12$2KraSinlm6MXyGNaUH8ume2EWD5YZP0VDypcTr1Iq5tb0pmlvh6hy"
+      role: "user"
+      email: "gaurav@gmail.com"  # Add email field
+    vivek.s:
+      name: "Vivek S"
+      password: "$2b$12$n4fAGxUxnpykgpt1BkYHneZWRHFFh7RUky1pVVUJ6OQ7n.5pOJBU2"
+      role: "user"
+      email: "vivek@gmail.com"  # Add email field
+    anup.v:
+      name: "Anup V"
+      password: "$2b$12$BE73frD4fIAvWMmQC8VP6OwVDlImMm1hKKQHC1lskGsq8J1wZutde"
+      role: "user"
+      email: "anup@gmail.com"  # Add email field
+    jignesh.k:
+      name: "Jignesh K"
+      password: "$2b$12$wE37keDDNyFNvPFl3fwH8O6AymBBiMOgTqWbfcw0vxfSnF54Ji4TC"
+      role: "user"
+      email: "jignesh@gmail.com"  # Add email field
+    anand:
+      name: "Anand"
+      password: "$2b$12$r/KlOgHdzzIvjj55yV0Qh.Vi2lX.vEb2ZuLbDBw1VHgCJfSsbbLfi"
+      role: "user"
+      email: "anand@gmail.com"  # Add email field
+    admin1@gmail.com:
+      name: "Admin1"
+      password: "$2b$12$29prp8KAJ9em.J5RKmj6xe9fTAXzjPIubMggBioT0Bk5azzZeQGiq"
+      role: "admin1"
+      email: "admin1@gmail.com"  # Add email field
+    admin2@gmail.com:
+      name: "Admin2"
+      password: "$2b$12$48i2NmClxN50lZEkduM.P.qiO6exYsjAQCVbAcbW2plJM7.L94FVS"
+      role: "admin2"
+      email: "admin2@gmail.com"  # Add email field
+    admin3@gmail.com:
+      name: "Admin3"
+      password: "$2b$12$YI6kOGh1BC.ZErkAfQnkLeD1xjdL5PUgFIVGxWxAOKlmUcgRYn5Au"
+      role: "admin3"
+      email: "admin3@gmail.com"  # Add email field
+    jagdish.mulchandani:
+      name: "Jagdish Mulchandani"
+      password: "$2b$12$ouc.I3X1UF64CGFzZrPlYOdmxZd8BjuaYefjcpq/LVVfFWkDL0pOi"
+      role: "user"
+      email: "jagdish@gmail.com"  # Add email field
+    chandan.roy:
+      name: "Chandan Roy"
+      password: "$2b$12$VrGOR1Qy4c4XNh8TxcVuEelQU/1s/rOvhhLCSeec5Qjh05omc6Pj2"
+      role: "user"
+      email: "chandan@gmail.com"  # Add email field
+    sonal.khanduja:
+      name: "Sonal Khanduja"
+      password: "$2b$12$1LTtnbAx6tp5llQm/V4LLuvYwbllQWhB5gm9SYW5a7Pjaw1Zxyqsq"
+      role: "user"
+      email: "sonal@gmail.com"  # Add email field
+    sandipta.banerjee:
+      name: "Sandipta Banerjee"
+      password: "$2b$12$2SQcqWeLQ0jkRxmtLKHUme58iA37QxTdAm3IUhBKkGeX09ejc7ET2"
+      role: "user"
+      email: "nakul@gmail.com"  # Add email field
+    ashish.sehgal:
+      name: "Ashish Sehgal"
+      password: "$2b$12$e.y0pPoYaejKUqFUCa9eaOXBHOhyVjuURsBtQYnh3LWzSl1B3ctUO"
+      role: "user"
+      email: "ashish@gmail.com"  # Add email field
+    sumit.awasthi:
+      name: "Sumit Awasthi"
+      password: "$2b$12$kJf/Jo4/c0HWnQxUQ6qP9eYQKymyMpW/zaiKw7Vgszn835cH6Q6yO"
+      role: "user"
+      email: "sumit@gmail.com"  # Add email field
+    rahul.dhadve:
+      name: "Rahul Dhadve"
+      password: "$2b$12$.Hx4aBAJTfrkeTKYXMGrF.OH.44Ib1MNdC7oEbxQQMxfmu.B4.8eC"
+      role: "user"
+      email: "rahul@gmail.com"  # Add email field
+
+blocked_users:
+  - xyz7@gmail.com
