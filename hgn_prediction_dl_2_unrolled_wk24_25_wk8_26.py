@@ -322,8 +322,4 @@ st.write("""
 ---
 **Note**: This app leverages Artificial Intelligence (AI) to predict news ratings, offering insights based on historical data. 
 Predictions should be combined with domain expertise. The developer is not responsible for outcomes based solely on the app's predictions. 
-For technical details on ML models employed and error metrics, contact: 
-**Puneet Sah**  
-📧 puneet.sah@timesgroup.com  
-📞 9820615085
-""")
+For technical details on AI models employed and error metrics, contact: **Puneet Sah**  📞 +919820615085 """)
